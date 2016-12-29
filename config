@@ -98,11 +98,12 @@ exec google-chrome
 exec slack
 exec terminator
 exec chromium-browser
+exec cmus
 #specific workspaces
 assign [class="Google-chrome"] $workspace2
 assign [class="Slack"] $workspace4
 assign [class="Chromium-browser"] $workspace5
-
+assign [class="Cmus"] $workspace10
 #Workspace Names
 set $workspace1 "1: Terminals"
 set $workspace2 "2: Chrome"
