@@ -100,7 +100,7 @@ exec terminator
 exec chromium-browser
 #specific workspaces
 assign [class="Google-chrome"] $workspace2
-assign [class="X-terminal-emulator"] $workspace1
+assign [class="Slack"] $workspace4
 assign [class="Chromium-browser"] $workspace5
 
 #Workspace Names
